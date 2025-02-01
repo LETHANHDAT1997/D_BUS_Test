@@ -1,0 +1,3 @@
+/home/ledat/Public/Test_D_BUS_App/service/build/CMakeFiles/obj-manager-server.dir
+/home/ledat/Public/Test_D_BUS_App/service/build/CMakeFiles/edit_cache.dir
+/home/ledat/Public/Test_D_BUS_App/service/build/CMakeFiles/rebuild_cache.dir
