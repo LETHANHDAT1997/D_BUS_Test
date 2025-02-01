@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/obj-manager-client.dir/obj-manager-client.o -o obj-manager-client  -Wl,-rpath,/home/ledat/Public/Test_D_BUS_App/sdbus-cpp/build /home/ledat/Public/Test_D_BUS_App/sdbus-cpp/build/libsdbus-c++.so.2 
